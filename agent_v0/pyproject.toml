@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
 dependencies = [
+    "grandalf>=0.8",
     "langchain-community>=0.3.24",
     "langchain-core>=0.3.64",
     "langgraph>=0.4.8",
