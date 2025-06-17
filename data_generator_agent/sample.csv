@@ -1,0 +1,11 @@
+,user id,full name,email,password,date of birth,gender,phone number,address,city,state,zip code,country,registration date,last login,status
+0,u28745,emily davis,emily.davis@gmail.com,p@ssw0rd!123,1995-05-15,female,+1 (212) 555-0198,"123 main st, new york, ny, 10001",new york,new york,10001,usa,2023-10-05t14:30:45,2023-10-06t09:15:22,active
+1,u93217,james rodriguez,james.rodriguez@yahoo.com,m3#d7$9!,2000-08-22,male,+44 (20) 7946 0012,"456 oak ave, london, uk, sw1a 1aa",london,england,sw1a 1aa,uk,2023-10-05t16:45:12,2023-10-05t17:20:33,inactive
+2,u18943,sophia kim,sophia.kim@outlook.com,al3#k9$!,1988-11-30,other,+351 21 987 6543,"789 pine rd, lisbon, portugal, 1000-123",lisbon,portugal,1000-123,portugal,2023-10-05t18:15:58,2023-10-05t19:45:07,suspended
+3,u52789,michael johnson,michael.johnson@gmail.com,qw4#d8$!,1992-03-14,male,+33 (1) 678 901 234,"101 maple st, paris, france, 75001",paris,île-de-france,75001,france,2023-10-05t12:00:33,2023-10-05t13:30:45,active
+4,u36541,emma wilson,emma.wilson@yahoo.com,bl2#k7$!,2005-07-05,female,+61 (2) 8987 6543,"201 river st, sydney, nsw, 2000",sydney,new south wales,2000,australia,2023-10-05t15:45:22,2023-10-05t17:10:33,inactive
+5,u74198,william brown,william.brown@gmail.com,xw1#d6$!,1985-12-12,other,+91 98765 43210,"301 hill rd, mumbai, maharashtra, 400001",mumbai,maharashtra,400001,india,2023-10-05t11:20:15,2023-10-05t12:55:30,suspended
+6,u23694,olivia taylor,olivia.taylor@outlook.com,zl5#k4$!,1998-09-22,male,+1 (312) 555-2345,"401 pine st, toronto, ontario, m5a 3k9",toronto,ontario,m5a 3k9,canada,2023-10-05t16:30:45,2023-10-05t18:15:22,active
+7,u89321,charlotte lee,charlotte.lee@gmail.com,pw3#k2$!,2003-04-10,female,+44 (20) 7986 5432,"501 grove st, edinburgh, scotland, eh1 1aa",edinburgh,scotland,eh1 1aa,uk,2023-10-05t13:15:33,2023-10-05t14:45:22,inactive
+8,u12478,david smith,david.smith@yahoo.com,ml7#k1$!,1982-06-07,other,+351 21 987 6543,"601 lake st, lisbon, portugal, 1000-123",lisbon,portugal,1000-123,portugal,2023-10-05t17:00:15,2023-10-05t18:30:45,suspended
+9,u56789,ava wilson,ava.wilson@gmail.com,qw9#d3$!,1996-01-15,male,+1 (212) 555-0198,"701 pine st, new york, ny, 10001",new york,new york,10001,usa,2023-10-05t10:00:00,2023-10-05t11:30:45,active
