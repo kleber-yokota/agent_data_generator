@@ -1,0 +1,11 @@
+,user id,full name,email,password,date of birth,gender,phone number,address,city,state,zip code,country,registration date,last login,status
+0,u00123,john doe,john.doe@example.com,p@ssw0rd!,1990-05-15,male,+44 20 7946 0012,"123 main st, london, uk, sw1a 1aa",london,england,sw1a 1aa,united kingdom,2023-04-05t14:30:22,2023-04-05t14:30:22,active
+1,u00456,jane smith,jane.smith@domain.co,s3cur3p@ss!,1985-08-22,female,+351 21 9123456,"456 oak ave, lisbon, portugal, 1234-567",lisbon,portugal,1234-567,portugal,2023-04-06t09:15:45,2023-04-06t09:15:45,inactive
+2,u00789,emily davis,emily.davis@webmail.org,p@ssw0rd!,1995-11-30,other,+1 555 123 4567,"789 pine rd, new york, ny, 10001",new york,new york,10001,united states,2023-04-07t17:45:10,2023-04-07t17:45:10,active
+3,u00101,michael johnson,michael.johnson@outlook.com,passw0rd!,1988-03-12,male,+46 70 123 4567,"101 maple st, stockholm, sweden, 111 22 333",stockholm,sweden,111 22 333,sweden,2023-04-08t08:20:33,2023-04-08t08:20:33,suspended
+4,u00202,sarah williams,sarah.williams@protonmail.com,p@ssw0rd!,1992-09-05,female,+91 98765 432109,"202 business park, mumbai, maharashtra, 400001",mumbai,maharashtra,400001,india,2023-04-09t13:55:47,2023-04-09t13:55:47,active
+5,u00303,david brown,david.brown@gmx.com,securep@ss!,1980-01-15,other,+33 1 234 567 890,"303 greenway, paris, france, 75001",paris,france,75001,france,2023-04-10t10:10:22,2023-04-10t10:10:22,inactive
+6,u00404,laura martinez,laura.martinez@live.com,p@ssw0rd!,1987-06-28,female,+52 55 1234 5678,"404 river st, mexico city, mexico, 11580",mexico city,mexico,11580,mexico,2023-04-11t16:30:55,2023-04-11t16:30:55,active
+7,u00505,james wilson,james.wilson@domain.net,passw0rd!,1979-12-10,male,+44 20 7946 0013,"505 lake ave, brighton, uk, bn1 1aa",brighton,england,bn1 1aa,united kingdom,2023-04-12t07:45:11,2023-04-12t07:45:11,suspended
+8,u00606,amanda taylor,amanda.taylor@domain.info,p@ssw0rd!,1993-04-07,other,+1 555 987 6543,"606 pine st, berlin, germany, 10117",berlin,germany,10117,germany,2023-04-13t12:20:34,2023-04-13t12:20:34,active
+9,u00707,kevin anderson,kevin.anderson@domain.org,securep@ss!,1986-02-22,male,+358 123 4567 8901,"707 oak st, helsinki, finland, 00100",helsinki,finland,00100,finland,2023-04-14t15:05:48,2023-04-14t15:05:48,inactive

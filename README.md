@@ -42,9 +42,3 @@ This structure allows experimentation and learning through iterative improvement
 - (Optional) Docker and Docker Compose  
 - Local LLM runner (such as [Ollama](https://github.com/ollama/ollama) or [vLLM](https://github.com/vllm-project/vllm))
 
-### Running an Agent
-
-Navigate to the folder of the agent version you want to run:
-
-
-
