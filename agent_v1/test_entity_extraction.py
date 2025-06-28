@@ -1,4 +1,4 @@
-from guardrails import entity_extraction, Entities
+from nodes import entity_extraction, Entities
 from langchain_community.chat_models import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
 import re
