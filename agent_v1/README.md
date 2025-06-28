@@ -21,4 +21,3 @@ This project explores techniques for generating structured data using Large Lang
 - Modular LangGraph setup with testable nodes
 - Observability stack deployable via Docker Compose or Helm
 
-
