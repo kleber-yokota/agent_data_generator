@@ -1,0 +1,27 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+      http:
+processors:
+  batch:
+exporters:
+  otlphttp/hdx:
+    endpoint: "http://localhost:4318"
+    headers:
+      authorization: "xxxxxxxxxxxxxxxxxxxxxxxxx"
+    compression: gzipUSAGE_STATS_ENABLED
+  service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [otlphttp/hdx]
+    metrics:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [otlphttp/hdx]
+    logs:
+      receivers: [otlp]
+      processors: [batch]
+      exporters: [otlphttp/hdx]
